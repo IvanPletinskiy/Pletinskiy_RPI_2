@@ -4,11 +4,11 @@ var isChanging = true
 var looper;
 
 let images = [
-    "image0.jpg",
-    "image1.jpg",
-    "image2.jpg",
-    "image3.jpg",
-    "image4.jpg"
+    "/image0.jpg",
+    "/image1.jpg",
+    "/image2.jpg",
+    "/image3.jpg",
+    "/image4.jpg"
 ];
 
 $(document).ready(function () {
