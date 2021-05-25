@@ -1,0 +1,54 @@
+.image_container_image {
+    width: 1000px;
+    height: 720px;
+}
+
+.control__control-button {
+    width: auto;
+    height: auto;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    alignment: center;
+}
+
+.control__control-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+.slider__back {
+    width: auto;
+    alignment: center;
+    height: 50px;
+}
+
+.slider__forward {
+    width: auto;
+    alignment: center;
+    height: 50px;
+}
+
+.slider {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    alignment: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.dots__container {
+    padding-top: 20px;
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    alignment: right;
+    justify-content: center;
+}
